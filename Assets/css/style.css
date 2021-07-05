@@ -1,0 +1,49 @@
+main{
+    background: #DCDCDC;
+  }
+  
+  h1{
+    position: relative;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 0;
+    
+  }
+  
+  p{
+    position:relative;
+    text-align:center;
+    font-style: italic;
+    font-size: 1.5rem;
+  }
+  
+  #img-div{
+    background: white;
+  }
+  
+  
+  img{
+    max-width: 100%;
+     display: block;
+     height: auto;
+     margin: 0 auto;
+  }
+  
+  h2{
+    text-align:center;
+  }
+  
+  ol{
+    text-align: justify;
+  }
+  
+  #tribute-quotes{
+     text-align: center;
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  #tribute-link{
+    font-weight: bold;
+    font-style: normal;
+  }
